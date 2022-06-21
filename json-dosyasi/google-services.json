@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "709566790714",
+    "project_id": "cargotrackingapp-ee7a0",
+    "storage_bucket": "cargotrackingapp-ee7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709566790714:android:2e01e85470352032e2c903",
+        "android_client_info": {
+          "package_name": "com.example.kargotakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709566790714-e3fmidvo8tlcsgrbb8cj8s068so7rr4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55A3gH3zU0WT5Kkf4bWlenEk1K1ql_Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709566790714-e3fmidvo8tlcsgrbb8cj8s068so7rr4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709566790714:android:323fec2b35fb3857e2c903",
+        "android_client_info": {
+          "package_name": "com.example.mycargotrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709566790714-e3fmidvo8tlcsgrbb8cj8s068so7rr4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55A3gH3zU0WT5Kkf4bWlenEk1K1ql_Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709566790714-e3fmidvo8tlcsgrbb8cj8s068so7rr4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
